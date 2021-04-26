@@ -4,21 +4,20 @@ You can use it anytime as long as it isn't deprecated yet because of google itse
 
 ## Usage
 
-<a href="#" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/VivekDomadia/Google-Colaboratory-RDP-Server/blob/master/Google_Colaboratory_RDP_Server.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-1. Click the Run cell button (Play emoji like thingy).
+1. Run the cell.
 2. Input your username and password there<br />
 2.1. Wait for the RDP Server installing.
-3. Just follow the rest of it okay.
-4. Go to https://remotedesktop.google.com/headless,<br />
-4.1. Click Begin > Next > Authorize > Select your google account > Copy Debian Linux > Start Over, then close the tab,<br />
-4.2. Paste the command that you've copied in the terminal(?) then press enter,<br />
-4.3. Enter a PIN at least six digits and then enter the same PIN again.
-5. Wait for `Package upgrade has completed` show up.
-6. Go to https://remotedesktop.google.com/access,<br/>
-6.1. Select your remote device(s).
-7. AND BOOM YOU'RE CONNECTED
-8. You need to repeat those step if the machine disconnected.
+3. Go to https://remotedesktop.google.com/headless,<br />
+3.1. Click Begin > Next > Authorize > Select your google account > Copy Debian Linux > Start Over, then close the tab,<br />
+3.2. Paste the command that you've copied in the terminal(?) then press enter,<br />
+3.3. Enter a PIN at least six digits and then enter the same PIN again.
+4. Wait for `Package upgrade has completed` show up.
+5. Go to https://remotedesktop.google.com/access,<br/>
+5.1. Select your remote device(s).
+6. AND BOOM YOU'RE CONNECTED
+7. You need to repeat those step if the machine disconnected.
 
 
 ## Script To At Least Keep The Machine(?) Online For 12 Hours
