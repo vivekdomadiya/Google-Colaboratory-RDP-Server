@@ -4,7 +4,7 @@ You can use it anytime as long as it isn't deprecated yet because of google itse
 
 ## Usage
 
-<a href="https://colab.research.google.com/github/VivekDomadia/Google-Colaboratory-RDP-Server/blob/master/Google_Colaboratory_RDP_Server.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/VivekDomadia/Google-Colaboratory-RDP-Server/blob/master/Google_Colaboratory_RDP_Server.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="50" /></a>
 
 1. Run the cell.
 2. Input your username and password there<br />
